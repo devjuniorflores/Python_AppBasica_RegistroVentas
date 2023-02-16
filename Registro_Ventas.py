@@ -453,7 +453,7 @@ def procesar():
 
     salida_total_items["text"]  = salida_total["text"]
     
-    #EJECUCION DE LA VENTANA PARA LA SALIDA/IMPRESIÓN DE DATOS
+    #EJECUCION DE LA VENTANA PARA LA SALIDA/IMPRESIÓN DE LOS DATOS
     ventana.mainloop()
 
 #CREACION DEL BOTON PROCESAR LA CUAL EJECUTA LA FUNCION PROCESAR
